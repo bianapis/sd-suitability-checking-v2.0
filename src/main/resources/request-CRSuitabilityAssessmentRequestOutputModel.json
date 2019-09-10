@@ -1,0 +1,25 @@
+{
+  "suitabilityAssessmentRequestActionTaskReference" : "SARATR791682",
+  "requestRecordReference" : "RRR775268",
+  "suitabilityAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "792812",
+    "proposedMarketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "718032",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "720930",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "suitabilityComplianceAssessmentWorkProducts" : "suitabilityComplianceAssessmentWorkProducts",
+    "correspondenceInstanceReference" : "738449",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "suitabilityAssessmentType" : "suitabilityAssessmentType",
+    "suitabilityComplianceAssessmentResult" : "suitabilityComplianceAssessmentResult",
+    "documentDirectoryEntryInstanceReference" : "783001"
+  },
+  "suitabilityAssessmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

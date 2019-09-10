@@ -1,0 +1,37 @@
+{
+  "suitabilityAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "761225",
+    "proposedMarketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "715207",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "700142",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "suitabilityComplianceAssessmentWorkProducts" : "suitabilityComplianceAssessmentWorkProducts",
+    "correspondenceInstanceReference" : "733668",
+    "customerReference" : "726154",
+    "marketOrderType" : "marketOrderType",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "suitabilityAssessmentType" : "suitabilityAssessmentType",
+    "investmentPortfolioInstanceReference" : "728688",
+    "suitabilityComplianceAssessmentResult" : "suitabilityComplianceAssessmentResult",
+    "documentDirectoryEntryInstanceReference" : "711427"
+  },
+  "suitabilityAssessmentRetrieveActionResponse" : "suitabilityAssessmentRetrieveActionResponse",
+  "suitabilityAssessmentRetrieveActionTaskRecord" : {},
+  "suitabilityAssessmentInstanceAnalysis" : {
+    "suitabilityAssessmentInstanceAnalysisReport" : {},
+    "suitabilityAssessmentInstanceAnalysisData" : "suitabilityAssessmentInstanceAnalysisData",
+    "suitabilityAssessmentInstanceAnalysisReportType" : "suitabilityAssessmentInstanceAnalysisReportType"
+  },
+  "suitabilityAssessmentInstanceReportRecord" : {
+    "suitabilityAssessmentInstanceReport" : {},
+    "suitabilityAssessmentInstanceReportType" : "suitabilityAssessmentInstanceReportType",
+    "suitabilityAssessmentInstanceReportData" : "suitabilityAssessmentInstanceReportData"
+  },
+  "suitabilityAssessmentRetrieveActionTaskReference" : "SARATR737354"
+}

@@ -1,0 +1,27 @@
+{
+  "suitabilityAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "727980",
+    "proposedMarketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "733317",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "794815",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "suitabilityComplianceAssessmentWorkProducts" : "suitabilityComplianceAssessmentWorkProducts",
+    "correspondenceInstanceReference" : "715919",
+    "customerReference" : "734148",
+    "marketOrderType" : "marketOrderType",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "suitabilityAssessmentType" : "suitabilityAssessmentType",
+    "investmentPortfolioInstanceReference" : "790816",
+    "suitabilityComplianceAssessmentResult" : "suitabilityComplianceAssessmentResult",
+    "documentDirectoryEntryInstanceReference" : "703137"
+  },
+  "updateResponseRecord" : {},
+  "suitabilityAssessmentUpdateActionTaskReference" : "SAUATR730002",
+  "suitabilityAssessmentUpdateActionTaskRecord" : {}
+}

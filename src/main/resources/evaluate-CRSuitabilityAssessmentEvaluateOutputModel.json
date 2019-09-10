@@ -1,0 +1,23 @@
+{
+  "suitabilityAssessmentInstanceRecord" : {
+    "proposedMarketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "723717",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "797310",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "suitabilityComplianceAssessmentWorkProducts" : "suitabilityComplianceAssessmentWorkProducts",
+    "correspondenceInstanceReference" : "758056",
+    "suitabilityAssessmentType" : "suitabilityAssessmentType",
+    "suitabilityComplianceAssessmentResult" : "suitabilityComplianceAssessmentResult",
+    "documentDirectoryEntryInstanceReference" : "786704"
+  },
+  "suitabilityAssessmentEvaluateActionReference" : "SAEAR799982",
+  "suitabilityAssessmentInstanceReference" : "SAIR761514",
+  "suitabilityAssessmentInstanceStatus" : "suitabilityAssessmentInstanceStatus",
+  "suitabilityAssessmentEvaluateActionRecord" : {}
+}
